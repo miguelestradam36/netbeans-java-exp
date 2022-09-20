@@ -1,0 +1,6 @@
+proyecto_java.diferentes_cartas
+Tarea_java.diferentes_cartas$Carta_especial
+proyecto_java.diferentes_cartas$Carta_especial
+Tarea_java.diferentes_cartas
+proyecto_java.diferentes_cartas$Carta_normal
+Tarea_java.diferentes_cartas$Carta_normal
